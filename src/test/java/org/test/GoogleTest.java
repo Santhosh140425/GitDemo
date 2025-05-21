@@ -9,4 +9,7 @@ public class GoogleTest {
         open("https://www.google.com");
         System.out.println("Done");
     }
+    public void sandy(){
+        System.out.println("tamba);
+    }
 }
