@@ -10,6 +10,6 @@ public class GoogleTest {
         System.out.println("Done");
     }
     public void sandy(){
-        System.out.println("tamba);
+        System.out.println("tamba");
     }
 }
